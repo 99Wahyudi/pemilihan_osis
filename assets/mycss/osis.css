@@ -1,0 +1,47 @@
+body{
+	background: #f0f0f0
+}
+
+.card-osis{
+	width: 18rem;
+	height: 22.5rem;
+	margin: auto;
+	/*box-shadow: 2px 2px 5px rgba(0,0,0,9);*/
+	border-radius: 5px;
+	background-color: blue;
+	position: relative;
+}
+
+.card-osis-header{
+	width: 12rem;
+	height: 12rem;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+	background: #f0f0f0;
+	box-sizing: border-box;
+	padding: 0 10px 10px 10px;
+	border-radius: 0px 0px 8px 8px;
+}
+
+.img-osis{
+	width: 90%;
+	height: 120%;
+	object-fit: cover;
+	position: absolute;
+	bottom: 5%;
+	border-radius: 8px;
+	/*left: 50%;*/
+	/*transform: translateX(-50%);*/
+}
+
+.card-osis-footer{
+	position: absolute;
+	bottom: 0%;
+	width: 100%;
+}
+.visi-misi-button::hover{
+	background-color: 
+}
+
+/*007bff*/
